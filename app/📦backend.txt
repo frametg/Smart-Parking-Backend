@@ -1,0 +1,24 @@
+📦backend
+ ┣ 📂.vscode
+ ┃ ┗ 📜launch.json
+ ┣ 📂app
+ ┃ ┣ 📜admin.js
+ ┃ ┣ 📜booking.js
+ ┃ ┣ 📜fav.js
+ ┃ ┣ 📜forgotpassword.js
+ ┃ ┣ 📜reqadminsignup.js
+ ┃ ┗ 📜routes.js
+ ┣ 📂config
+ ┃ ┣ 📜database.js
+ ┃ ┗ 📜passport.js
+ ┣ 📂hardware
+ ┃ ┣ 📜nodemcu.js
+ ┃ ┗ 📜raspberrypi.js
+ ┣ 📂img
+ ┃ ┣ 📜ecc.jpg
+ ┃ ┣ 📜floor12.jpg
+ ┃ ┗ 📜president.jpg
+ ┣ 📂node_modules
+ ┣ 📜package-lock.json
+ ┣ 📜package.json
+ ┗ 📜server.js
